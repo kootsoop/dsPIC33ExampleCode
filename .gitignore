@@ -1,0 +1,11 @@
+*.d
+*.pre
+*.p1
+*.lst
+*.sym
+*.obj
+*.o
+*.sdb
+*.obj.dmp
+/SASK Record Play Demo With Intro/SASK Record Play Demo with Intro.X/build/
+/SASK Record Play Demo With Intro/SASK Record Play Demo with Intro.X/dist/
